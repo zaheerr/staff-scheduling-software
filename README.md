@@ -12,6 +12,8 @@
 	<li>Click finish to launch the app</li>
 </ol>
 
+![staff-sche3](https://cloud.githubusercontent.com/assets/24223246/20666654/5ca2ef6a-b58b-11e6-875b-0583cead5990.jpg)
+
 <p><br />
 The demo application is created to work fully on different gadgets ranging from Android, Windows,Mac and more. If you are&nbsp; feeling any issues in using the software, please keep us posted in the issues tab.The&nbsp;<a href="http://www.eworksmanager.co.uk/staff-scheduling-software.html">eWorksManager staff scheduling</a> software of is just a free demo software for Windows OS , Mac OSX,GNU/Linux, . Its interface is very comprehensive but easy to use. The staff&nbsp; scheduling application of eWorksManager provides a single dashboard which offers users to see each of their tasks and monitor them with ease. If you have to handle staff in action via this app it is childs play to schedule,monitor and complete jobs. There are so many staff scheduling apps out there, out of which eWorksManger is the top rated one because of its simplicity, ease of use superfast customer support, user-friendly navigation</p>
 
